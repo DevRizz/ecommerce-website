@@ -9,7 +9,7 @@ const orderRoutes = require('./src/routes/orders');
 const app = express();
 
 app.use(cors({
-  origin: 'https://ecommerce-website-frontend-576l.onrender.com',
+  origin: 'https://ecommerce-website-frontend-576l.onrender.com/',
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
