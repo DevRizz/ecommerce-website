@@ -8,12 +8,17 @@ const orderRoutes = require('./src/routes/orders');
 
 const app = express();
 
-app.use(cors());
+app.use(cors({
+  origin: 'https://ecommerce-website-frontend-576l.onrender.com',
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  allowedHeaders: ['Content-Type', 'Authorization']
+}));
+
 app.use(express.json());
 
 mongoose.connect(process.env.MONGODB_URI)
-.then(() => console.log('Connected to MongoDB'))
-.catch((err) => console.error('MongoDB connection error:', err));
+  .then(() => console.log('Connected to MongoDB'))
+  .catch((err) => console.error('MongoDB connection error:', err));
 
 app.use('/api/auth', authRoutes);
 app.use('/api/products', productRoutes);
