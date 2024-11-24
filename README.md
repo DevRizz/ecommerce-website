@@ -22,6 +22,9 @@ This is a fully functional **E-Commerce Website** built using **Next.js** and **
 ### Payment Preview
 ![Screenshot 2024-11-24 171040](https://github.com/user-attachments/assets/5ad857f0-3939-46a5-abb2-4c17de82589f)
 
+### MongoDB Preview
+![Screenshot 2024-11-24 174039](https://github.com/user-attachments/assets/476f5984-d9f7-456f-b401-e79f873d3208)
+
 ## Contributing
 Feel free to contribute by forking the repository, making changes, and submitting a pull request.
 
