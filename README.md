@@ -14,10 +14,10 @@ This is a fully functional **E-Commerce Website** built using **Next.js** and **
 ![Screenshot 2024-11-24 170949](https://github.com/user-attachments/assets/8c88d720-b5ba-45e5-8e40-0070350348db)
 
 ### Profile Preview
-![Screenshot 2024-11-24 171101](https://github.com/user-attachments/assets/0b7456cf-2c5f-463b-8d62-70807c53aaf8)
+![Screenshot 2024-11-24 171019](https://github.com/user-attachments/assets/9ca46106-6b94-4a07-b6c2-7823c27b54a5)
 
 ### Cart Preview
-![Screenshot 2024-11-24 171019](https://github.com/user-attachments/assets/9ca46106-6b94-4a07-b6c2-7823c27b54a5)
+![Screenshot 2024-11-24 171101](https://github.com/user-attachments/assets/0b7456cf-2c5f-463b-8d62-70807c53aaf8)
 
 ### Payment Preview
 ![Screenshot 2024-11-24 171040](https://github.com/user-attachments/assets/5ad857f0-3939-46a5-abb2-4c17de82589f)
